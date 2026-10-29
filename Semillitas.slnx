@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="Semillitas.Core/Semillitas.Core.csproj" Id="a8ce1b14-d508-4332-9e21-b6b4eaad63a3" />
   <Project Path="Semillitas/Semillitas.Api.csproj" />
 </Solution>
